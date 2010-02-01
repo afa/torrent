@@ -1,0 +1,2 @@
+module StoreProfilesHelper
+end

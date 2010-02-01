@@ -1,0 +1,2 @@
+class StoreProfilesController < ApplicationController
+end

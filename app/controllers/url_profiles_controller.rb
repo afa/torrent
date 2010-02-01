@@ -1,0 +1,2 @@
+class UrlProfilesController < ApplicationController
+end
